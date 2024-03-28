@@ -1,5 +1,4 @@
 
-
 .start-screen {
     width: 600px;
     height: 200px;
@@ -11,20 +10,7 @@
     position: relative; 
   }
   
-  /* h1{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-transform: capitalize;
-    font-size: 1.5rem;
-    color: #333;
-    padding: 1rem 0;
-    line-height: 1.5;
-  }
-  
-  span{
-    font-size: 1.5rem;
-    color: #003b5d;
-    
-  } */
+
   .start-button {
     padding: 20px 40px;
     font-size: 20px;
